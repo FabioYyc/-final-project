@@ -1,6 +1,6 @@
 ## Getting and cleaning data final project
 
-This script
+# This script
 
 1.Install then load stringr and dplyr packages
 
