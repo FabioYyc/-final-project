@@ -1,11 +1,11 @@
-## Codebook
+# Codebook
 This codebook describes the variables, and the data of tidy_data
 
-# Identifiers
+## Identifiers
 1. `subject` - The ID of the subject
 2. `activity` - The type of activity performed when the measurements were taken
 
-# Measurements
+## Measurements
 "tbodyacc mean   x" 
 "tbodyacc mean   y" 
 "tbodyacc mean   z" 
@@ -43,7 +43,7 @@ This codebook describes the variables, and the data of tidy_data
  "fbodygyro meanfreq   x"
 
 
-# Activity has transformed to lables from values
+## Activity has transformed to lables from values
 `WALKING` (value `1`)
 * `WALKING_UPSTAIRS` (value `2`)
 * `WALKING_DOWNSTAIRS` (value `3`)
